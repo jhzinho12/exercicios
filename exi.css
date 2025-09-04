@@ -1,0 +1,28 @@
+.titulo1 {
+    color: rgb(0,255 , 225);
+    text-align: center;
+}
+.titulo2 {
+    color: rgb(7, 129, 115);
+    text-align: center;
+}
+body {
+    background-color: rgb(7, 38, 95);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(0, 225, 255);
+    text-align: center;
+}
+
+p {
+ padding: 15px;
+ font-family: sans-serif;
+}
+hr {
+    border: 1px solid rgb(0, 255, 255);
+    max-width: 600px;
+    margin: auto;
+    border-color: lightgray
+}

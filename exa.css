@@ -1,0 +1,20 @@
+h1 {
+    color: rgb(0, 225, 255);
+    text-align: center;
+}
+body {
+    background-color: rgb(7, 38, 95);
+    text-align: center;
+}
+
+a {
+    color: rgb( 0,255, 255);
+   font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p {
+    color: rgb(0, 255, 255);
+    text-align: center;
+    font-size: 15px;
+}

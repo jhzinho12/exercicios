@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(0, 225, 255);
+    text-align: center;
+}
+body {
+    background-color: rgb(7, 38, 95);
+    text-align: center;
+    background-color: rgb(7, 38, 95);
+}
+ol { 
+    color: rgb(0, 255, 255);
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(7, 38, 95);
+    padding: 10px;
+    border-radius: 10px;
+    list-style-type: square;
+}
